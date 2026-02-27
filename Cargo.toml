@@ -4,7 +4,7 @@ version = "0.2.0"
 edition = "2021"
 
 [dependencies]
-arboard = "3.4.1"
+arboard = "3.6.1"
 serde_json = "1.0.137"
 jaq-core = "2"
 jaq-std = "2"
